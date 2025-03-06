@@ -1,0 +1,10 @@
+{
+    "activeroulette": "Active Roulette",
+    "activeroulettedesc": "Enables roulette; so you don't have to restart the game to turn it on or off.",
+    "mannequintype": "Type of Mannequin",
+    "mannequintypedesc": "What type of mannequin can swap outfits with the farmer.",
+    "includefarmer": "Include Farmer",
+    "includefarmerdesc": "If true, farmer has a chance to keep their outfit.",
+    "swapboots": "Swap Boots",
+    "swapbootsdesc": "If true, mannequins swap boots when swapping outfits."
+}
