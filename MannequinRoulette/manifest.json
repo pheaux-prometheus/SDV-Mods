@@ -1,0 +1,10 @@
+{
+    "Name": "Mannequin Roulette",
+    "Author": "pheaux",
+    "Version": "1.0.0",
+    "Description": "Guarantees swapping outfits with mannequins, with options to choose the type of mannequin and whether to keep boots or not.",
+    "UniqueID": "pheaux.mannequinroulette",
+    "EntryDll": "MannequinRoulette.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [ "Nexus:31840" ]
+}
